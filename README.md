@@ -1,2 +1,3 @@
 # remote-nuke-launcher
-A mock project to demonstrate features of IntelliJ Idea and Github
+JDK Version: Amazon Corretto 17.0.8
+Language Version: 17
